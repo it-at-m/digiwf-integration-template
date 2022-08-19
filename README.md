@@ -1,18 +1,11 @@
-## Customize this file after creating the new REPO and remove this lines.
-What to adjust:  
-* Add the your project or repo name direct under the logo.
-* Add a short and long desciption.
-* Add links for your final repo to report a bug or request a feature.
-* Add list of used technologies.
-* If you have, add a roadmap or remove this section.
-* Fill up the section for set up and documentation.
- * Start in this file only with documentation and link to the docs folder.
-* Add project shields. Use [shields.io](https://shields.io/)
-
-## ------- end to remove -------
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 <!-- END OF PROJECT SHIELDS -->
 
@@ -20,23 +13,23 @@ What to adjust:
 <br />
 <div align="center">
   <a href="#">
-    <img src="/images/logo.png" alt="Logo" height="200">
+    <img src="images/logo.png" alt="Logo" height="200">
   </a>
 
-<h3 align="center">DigiWF <i>repo or project name</i></h3>
+<h3 align="center">DigiWF <i>Integration Template</i></h3>
 
   <p align="center">
-    <i>Add a here a short description</i>
-    <br /><a href="#">Report Bug</a>
+    <i>Cookiecutter for Spring Boot Starters</i>
+    <br /><a href="https://github.com/it-at-m/digiwf-integration-template/issues">Report Bug</a>
     ·
-    <a href="#">Request Feature</a>
+    <a href="https://github.com/it-at-m/digiwf-integration-template/issues">Request Feature</a>
   </p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-*Add a description from your project here.*
+*Cookiecutter for Spring Boot Starters.*
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -45,27 +38,25 @@ What to adjust:
 
 The documentation project is built with technologies we use in our projects:
 
-* *write here the list of used technologies*
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-## Roadmap
-
-*if you have a ROADMAP for your project add this here*
-
-
-See the [open issues](#) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Set up
-*how can i start and fly this project*
+* Spring Boot
+* [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Documentation
-*what insights do you have to tell*
+
+Install [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/installation.html)
+
+**Usage**
+
+````bash
+cookiecutter https://github.com/it-at-m/digiwf-integration-template
+````
+
+**Important Notice**
+
+The default java package is `io.muenchendigital.digiwf`.
+If you want to use a different java package you have to change the directory structure manually.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -110,3 +101,13 @@ it@m - opensource@muenchendigital.io
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
+[contributors-url]: https://github.com/it-at-m/digiwf-s3-integration/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
+[forks-url]: https://github.com/it-at-m/digiwf-s3-integration/network/members
+[stars-shield]: https://img.shields.io/github/stars/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
+[stars-url]: https://github.com/it-at-m/digiwf-s3-integration/stargazers
+[issues-shield]: https://img.shields.io/github/issues/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
+[issues-url]: https://github.com/it-at-m/digiwf-s3-integration/issues
+[license-shield]: https://img.shields.io/github/license/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
+[license-url]: https://github.com/it-at-m/digiwf-s3-integration/blob/master/LICENSE
