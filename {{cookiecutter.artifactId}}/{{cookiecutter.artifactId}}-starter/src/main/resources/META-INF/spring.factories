@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  {{cookiecutter.groupId}}.{{cookiecutter.artifactId}}.configuration.{{cookiecutter.name}}AutoConfiguration
