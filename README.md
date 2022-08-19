@@ -53,6 +53,11 @@ Install [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/installatio
 cookiecutter https://github.com/it-at-m/digiwf-integration-template
 ````
 
+**Important Notice**
+
+The default java package is `io.muenchendigital.digiwf`.
+If you want to use a different java package you have to change the directory structure manually.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
