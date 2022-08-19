@@ -101,13 +101,13 @@ it@m - opensource@muenchendigital.io
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
-[contributors-url]: https://github.com/it-at-m/digiwf-s3-integration/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
-[forks-url]: https://github.com/it-at-m/digiwf-s3-integration/network/members
-[stars-shield]: https://img.shields.io/github/stars/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
-[stars-url]: https://github.com/it-at-m/digiwf-s3-integration/stargazers
-[issues-shield]: https://img.shields.io/github/issues/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
-[issues-url]: https://github.com/it-at-m/digiwf-s3-integration/issues
-[license-shield]: https://img.shields.io/github/license/it-at-m/digiwf-s3-integration.svg?style=for-the-badge
-[license-url]: https://github.com/it-at-m/digiwf-s3-integration/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/it-at-m/digiwf-integration-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/it-at-m/digiwf-integration-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/it-at-m/digiwf-integration-template.svg?style=for-the-badge
+[forks-url]: https://github.com/it-at-m/digiwf-integration-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/it-at-m/digiwf-integration-template.svg?style=for-the-badge
+[stars-url]: https://github.com/it-at-m/digiwf-integration-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/it-at-m/digiwf-integration-template.svg?style=for-the-badge
+[issues-url]: https://github.com/it-at-m/digiwf-integration-template/issues
+[license-shield]: https://img.shields.io/github/license/it-at-m/digiwf-integration-template.svg?style=for-the-badge
+[license-url]: https://github.com/it-at-m/digiwf-integration-template/blob/master/LICENSE
