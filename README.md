@@ -1,6 +1,11 @@
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
 <!-- END OF PROJECT SHIELDS -->
 
@@ -15,9 +20,9 @@
 
   <p align="center">
     <i>Cookiecutter for Spring Boot Starters</i>
-    <br /><a href="/issues">Report Bug</a>
+    <br /><a href="https://github.com/it-at-m/digiwf-integration-template/issues">Report Bug</a>
     ·
-    <a href="/issues">Request Feature</a>
+    <a href="https://github.com/it-at-m/digiwf-integration-template/issues">Request Feature</a>
   </p>
 </div>
 
