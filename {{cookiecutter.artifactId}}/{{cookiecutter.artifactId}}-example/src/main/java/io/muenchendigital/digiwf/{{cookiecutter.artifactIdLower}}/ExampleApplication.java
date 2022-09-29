@@ -1,4 +1,4 @@
-package {{cookiecutter.groupId}}.{{cookiecutter.artifactId.replace("-", "").lower()}};
+package {{cookiecutter.groupId}}.{{cookiecutter.artifactIdLower}};
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,7 +1,7 @@
-package {{cookiecutter.groupId}}.{{cookiecutter.artifactId.replace("-", "").lower()}}.configuration;
+package {{cookiecutter.groupId}}.{{cookiecutter.artifactIdLower}}.configuration;
 
 import {{cookiecutter.groupId}}.{{cookiecutter.artifactId.replace("-", "").lower().lower()}}.{{cookiecutter.name}};
-import {{cookiecutter.groupId}}.{{cookiecutter.artifactId.replace("-", "").lower()}}.properties.{{cookiecutter.name}}Properties;
+import {{cookiecutter.groupId}}.{{cookiecutter.artifactIdLower}}.properties.{{cookiecutter.name}}Properties;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;

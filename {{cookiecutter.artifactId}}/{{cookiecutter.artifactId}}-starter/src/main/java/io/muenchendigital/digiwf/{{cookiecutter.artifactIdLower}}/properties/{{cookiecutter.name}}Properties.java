@@ -1,4 +1,4 @@
-package {{cookiecutter.groupId}}.{{cookiecutter.artifactId.replace("-", "").lower()}}.properties;
+package {{cookiecutter.groupId}}.{{cookiecutter.artifactIdLower}}.properties;
 
 import lombok.Getter;
 import lombok.Setter;
