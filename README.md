@@ -1,36 +1,13 @@
-<div id="top"></div>
-
-<!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
-<!-- END OF PROJECT SHIELDS -->
+# Cookiecutter for Spring Boot Starters
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="#">
-    <img src="images/logo.png" alt="Logo" height="200">
-  </a>
+Cookiecutter for Spring Boot Starters for [digiwf](https://digiwf.oss.muenchen.de)
 
-<h3 align="center">DigiWF <i>Integration Template</i></h3>
-
-  <p align="center">
-    <i>Cookiecutter for Spring Boot Starters</i>
-    <br /><a href="https://github.com/it-at-m/digiwf-integration-template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/it-at-m/digiwf-integration-template/issues">Request Feature</a>
-  </p>
-</div>
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-*Cookiecutter for Spring Boot Starters.*
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -41,7 +18,7 @@ The documentation project is built with technologies we use in our projects:
 * Spring Boot
 * [Cookiecutter](https://cookiecutter.readthedocs.io/en/stable/)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 ## Documentation
 
@@ -58,9 +35,9 @@ cookiecutter https://github.com/it-at-m/digiwf-integration-template
 The default java package is `io.muenchendigital.digiwf`.
 If you want to use a different java package you have to change the directory structure manually.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -77,30 +54,29 @@ Don't forget to give the project a star! Thanks again!
 
 More about this in the [CODE_OF_CONDUCT](/CODE_OF_CONDUCT.md) file.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- LICENSE -->
+
+
 ## License
 
-Distributed under the MIT License. See `LICENSE` file for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+Distributed under the MIT License. See [LICENSE](LICENSE) file for more information.
 
 
 
-<!-- CONTACT -->
+
+
+
 ## Contact
 
-it@m - opensource@muenchendigital.io
-
-[join our slack channel](https://join.slack.com/t/digiwf/shared_invite/zt-14jxazj1j-jq0WNtXp7S7HAwJA7tKgpw)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+it@M - opensource@muenchen.de
 
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+
+
+
+
 [contributors-shield]: https://img.shields.io/github/contributors/it-at-m/digiwf-integration-template.svg?style=for-the-badge
 [contributors-url]: https://github.com/it-at-m/digiwf-integration-template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/it-at-m/digiwf-integration-template.svg?style=for-the-badge
